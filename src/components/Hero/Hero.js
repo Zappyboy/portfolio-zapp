@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { Section, SectionText, SectionTitle } from '../../styles/GlobalComponents';
+import { Section, SectionSubText, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import Button from '../../styles/GlobalComponents/Button';
 import { LeftSection } from './HeroStyles';
 
@@ -8,13 +8,15 @@ const Hero = (props) => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle main center>
-        Welcome To <br />
-        My Portfolio
+        Welkom bij <br />
+        Mijn Portfolio
       </SectionTitle>
       <SectionText>
-        Mijn Portfolio Presentatie
+        Portfolio Presentatie
       </SectionText>
-      <Button onClick={() => window.location = 'https://google.com'}>Learn More</Button>
+      <SectionSubText>
+        Zapp Flick ROC Almere Buiten
+      </SectionSubText>
     </LeftSection>
   </Section>
 );
