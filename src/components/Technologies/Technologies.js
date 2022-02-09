@@ -7,9 +7,9 @@ const Technologies = () =>  (
   <Section id="tech">
     <SectionDivider />
     <br/>
-    <SectionTitle>Technologies</SectionTitle>
+    <SectionTitle>Software</SectionTitle>
     <SectionText>
-      All my technologies
+      Ik Ben Gespecialiseerd In:
     </SectionText>
     <List>
       <ListItem>
@@ -17,8 +17,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            Experience with <br/>
-            React, Angular and Vue
+            React, Angular en VueJS
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -27,8 +26,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            Experience with <br/>
-            FireBase, SQL and Node
+            FireBase, SQL en Node
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -37,8 +35,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Deployement</ListTitle>
           <ListParagraph>
-            Experience with <br/>
-            Containers and test units
+            Docker, VirtualBox en Microsoft Azure
           </ListParagraph>
         </ListContainer>
       </ListItem>

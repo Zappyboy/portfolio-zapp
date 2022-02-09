@@ -12,11 +12,8 @@ const Hero = (props) => (
         Mijn Portfolio
       </SectionTitle>
       <SectionText>
-        Portfolio Presentatie
+        Zapp Flick
       </SectionText>
-      <SectionSubText>
-        Zapp Flick ROC Almere Buiten
-      </SectionSubText>
     </LeftSection>
   </Section>
 );
