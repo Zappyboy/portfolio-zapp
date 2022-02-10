@@ -49,7 +49,7 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2019, text: 'Start MBO Almere Buiten', },
+  { year: 2019, text: 'Start leren programmeren', },
   { year: 2020, text: 'Eerste Stage SSP', },
   { year: 2021, text: 'Begin Corona, Project Bit-Academy', },
   { year: 2022, text: 'Eerste programmeer baan, eerste project als freelancer', },
